@@ -1,0 +1,1 @@
+This is mostly just stealing from dog-api for a goof and a gaf and experimenting with my own Slack chat bot.
